@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@600&display=swap');
+
+.bodylgas
+{
+	background-color: #d79424;
+	padding-top: 20px;
+}
+
+.hedderlgas
+{
+	color: #000000;
+	font-size: 50px;
+	font-family: PT Sans;
+}
+
+.btnlgas
+{
+	width: 400px;
+	height: 60px;
+	background-color: #ff0000;
+	padding: 0;
+	margin: 0;
+	 
+}
+
+.linklgas
+{
+	display: block;
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 24px;
+	font-family: Titillium Web;
+	padding: 10px 15px;
+	 
+}
+
+.linklgas:hover
+{
+	background-color: #ffffff;
+	color: #000000;
+}
+
+.footbtnlgas
+{
+	width: 250px;
+	height: 50px;
+	background-color: #181b22;
+	border-color: #ffffff;
+	padding: 0;
+	margin: 0;
+	border-radius: 25px;
+}
+
+.footlinklgas
+{
+	display: block;
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 18px;
+	font-family: PT Sans;
+	padding: 10px 12px;
+}
+
+.footlinklgas:hover
+{
+	color: #009933;
+}

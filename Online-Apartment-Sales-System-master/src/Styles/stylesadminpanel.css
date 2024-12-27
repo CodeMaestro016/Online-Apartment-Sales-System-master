@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Exo:wght@500&display=swap');
+
+.adminpbody
+{
+	background-color: #181b22;
+}
+
+.adminplist
+{
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	overflow: hidden;
+	background-color: #006600;
+	width: 250px;
+	height: 700px;
+	
+	
+	
+}
+
+.adminplink
+{
+	display: block;
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 18px;
+	font-family: Josefin Sans;
+	text-align: center;
+	padding: 10px 15px;
+	border-bottom: 2px solid black;
+}
+
+.adminplink:hover
+{
+	background-color: #ffffff;
+	color: #000000;
+}
+
+.adminpmain
+{
+	margin-right: 10%;
+	width: 70%;
+	height: 700px;
+	color: #ffffff;
+	background-color: #e6b800;
+	
+}
+
+.adminpdetails
+{
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+.adminpdetailstitle
+{
+	height: 30px;
+	color: #000000;
+	font-size: 35px;
+	font-family: Kanit;
+
+}
+
+.adminpftitle
+{
+	height: 15px;
+	color: #ffffff;
+	font-size: 28px;
+	font-family: Exo;
+}
+
+.adminpdetailsbar
+{
+	width: 300px;
+	height: 30px;
+	border-radius: 15px;
+	padding: 5px 10px;
+	font-size: 20px;
+}
+
+.adminpregbtn
+{
+	float:right;
+	margin-right: 15px;
+	width: 100px;
+	height: 35px;
+	border-radius: 10px;
+	padding: 5px 10px;
+	color: #ffffff;
+	font-size: 20px;
+	text-decoration: none;
+	background-color: #181b22;
+}
+
+.adminpbtnlink
+{
+	padding:5px 10px;
+	color: #ffffff;
+	font-size: 20px;
+	text-decoration: none;
+}

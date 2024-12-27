@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Viga&display=swap');
+
+.mainlogo
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 15%;
+	height: 15%;
+}
+
+.list
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #e60000;
+}
+
+.item
+{
+	float: left;
+}
+
+.link
+{
+	display: block;
+	color: #ffffff;
+	font-family: viga;
+	text-decoration: none;
+	text-align: center;
+	padding: 12px 16px;
+}
+
+.link:hover
+{
+	background-color: #330000;
+}
+
+.btnitem
+{
+	float: right;
+}
+
+.btnlink
+{
+	display: block;
+	color: white;
+	font-family: viga;
+	font-size: 16px;
+	text-decoration: none;
+	text-align: center;
+	padding: 8px 10px;
+	margin: 4px 2px;
+	margin-right: 10px;
+	border-radius: 10px;
+}
+
+.btnlink:hover
+{
+	background-color: white;
+	color: black;
+}
+
+.bodymain
+{
+	background: #b3b3b3;
+}
+
+.bodymainhedder
+{
+	text-align: center;
+	color: white;
+}
+
+.bodymainimg
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	height: 100%;
+
+}
+
+.bodymainpara
+{
+	text-align: center;
+	color: white;
+}
+
+footer
+{
+	background-color: #181b22;
+	color: #d3b469;
+	padding: 0px 0px 10px 0px;
+}
+
+.footpara
+{
+	text-align: center;
+	font-family: Kanit;
+	
+}
+
+.footlink
+{
+	text-decoration: none;
+	color: #d3b469;
+}
+
+.footlink:hover
+{
+	color:white;
+}
